@@ -1,5 +1,5 @@
 # Integrated-Project-Maji-Ndogo
-Restoring the lifeblood of Maji Ndogo
+**Restoring the lifeblood of Maji Ndogo**
 
 At the heart of this project is the water crisis faced by a fictitious country called Maji Ndogo. In this project, I will dive deep into the intricacies of using SQL to solve complex problems.
 This project progressively challenges me and offers less guidance as I progress, pushing me to think critically. By the end, I won’t just have a deeper understanding of SQL but also a blueprint for how to approach problems in future missions.
