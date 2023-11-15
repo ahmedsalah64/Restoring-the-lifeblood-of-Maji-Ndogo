@@ -4,4 +4,5 @@ This project **progressively challenged** me and offered **less guidance** as I 
 I completed the **project over the five weeks** of the SQL module.
 
 ![ERD](https://github.com/ahmedsalah64/Integrated-Project-Maji-Ndogo/assets/115900209/64cdacd3-0c75-464d-8a60-3a047f91a7fd)
+![Analyze International Debt Statistics](https://github.com/ahmedsalah64/Restoring-the-lifeblood-of-Maji-Ndogo/assets/115900209/250e2072-bae0-4e37-b32b-b721f0167f24)
 
