@@ -10,7 +10,7 @@ Communities rely heavily on a few primary water sources, most of which are locat
 
 Moreover, the reliance on these limited water sources leads to water collection points becoming crowded and sometimes even tense as people compete for access to this precious resource. Such situations can potentially lead to disputes, and in some cases, escalate into criminal activities.
 
-First phase with by SQL, I worked on this project in 4 parts and then collected them all in one powerful notebook file:
+In the first phase with SQL, I worked in 4 parts and then collected them all into one powerful notebook file:
 
 Part 1:
 In this first part of the integrated project, I dove into Maji Ndogo's expansive database containing 60,000 records spread across various tables. As I navigated this trove of data, I used basic queries to familiarise myself with the content of each table. I also refined some data using DML.
@@ -26,7 +26,7 @@ In this final part of the project, I finalised the data analysis using the full 
 
 Then I took the project to the next level with Power BI so let’s see what I did exactly:
 
-I worked on this project in 4 parts and then collected them all in one powerful file:
+In the first phase with Power Bi, I worked in 4 parts and then collected them all into one powerful file:
 
 Part 1:
 In this first part of the integrated project, I was introduced to updated data concerning the gender composition of queues at shared water taps in Maji Ndogo, and some new crime-related data. I created basic visuals, gradually diving into crime-related data, and some gender parity data related to water, illustrating the correlation between women queueing and being victims of crime. The primary goal is to visualise the national survey data results, with the aim of reporting them in the future.
@@ -41,3 +41,4 @@ Part4:
 In this final part of the project, I used all the skills acquired in the course to build a public dashboard. My mission was to communicate with transparency: Where did the money go? I tracked the total budget against project completion, monitored teams' performance, and compared budgeted versus actual costs to flag potential corruption, promoting transparency and accountability in addressing Maji Ndogo’s water crisis.
 
 ![ERD](https://github.com/ahmedsalah64/Integrated-Project-Maji-Ndogo/assets/115900209/64cdacd3-0c75-464d-8a60-3a047f91a7fd)
+
