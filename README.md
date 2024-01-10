@@ -24,7 +24,7 @@ In this third part of the integrated project, I pulled data from many different 
 **Part 4:**
 In this final part of the project, I finalised the data analysis using the full suite of SQL tools. I gained my  final insights, I used these to classify water sources, and prepare relevant data for the engineering teams.
 
-Then I took the project to the next level with Power BI so let’s see what I did exactly:
+**Then I took the project to the next level with Power BI so let’s see what I did exactly:**
 
 **In the second phase with Power Bi, I worked in 4 parts and then collected them all into one powerful file:**
 
