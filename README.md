@@ -1,7 +1,7 @@
 # Restoring the lifeblood of Maji Ndogo
 That's one of my best projects I have ever done using SQL and Power BI.
 
-Firstly, here is the link to the dachboad: https://www.novypro.com/project/restoring-the-lifeblood-of-maji-ndogo
+Firstly, here is the link to the dachborad: https://www.novypro.com/project/restoring-the-lifeblood-of-maji-ndogo
 
 
 In Maji Ndogo and across the world, access to clean and reliable water sources is a fundamental aspect of daily life. The data collected on water sources, water collection, and crime in Maji Ndogo provided me with a deeper understanding of the daily life of its inhabitants and the critical role water plays in their lives.
